@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>BigBlueBox</Name>
+    <Version>1.0.0</Version>
+    <Title>BigBlueBox - Installer</Title>
+    <Publisher>Bob Baker</Publisher>
+    <StartMenuDir>BigBlueBox</StartMenuDir>
+    <TargetDir>@HomeDir@/InstallationDirectory</TargetDir>
+</Installer>

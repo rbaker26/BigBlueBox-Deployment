@@ -1,0 +1,1 @@
+binarycreator -c config\config.xml -p packages BigBlueBox-Installer.exe
