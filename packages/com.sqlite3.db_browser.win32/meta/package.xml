@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>DB Browser for SQLite 32bit</DisplayName>
+    <Description>Install DB Browser 32bit</Description>
+    <Version>3.10.1</Version>
+    <ReleaseDate>2018-06-21</ReleaseDate>
+    <Licenses>
+        <License name="GNU General Public License Version 3" file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>page.ui</UserInterface>
+    </UserInterfaces>
+</Package>
